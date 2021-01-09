@@ -11,3 +11,11 @@ ITestService testService=StrategyTemplate.getStrategyService("ATest",ITestServic
 Optional.ofNullable(testService).orElseThrow(()->new RuntimeException("no suitable strategy serviceImpl found"));
 testService.test();
 ```
+### 欢迎指正
+<pre>
+联系方式:
+QQ:2681280434(天涯若比邻)
+微信:tianya268180434
+电话:13657097058
+邮箱:13657097058@163.com
+</pre>
